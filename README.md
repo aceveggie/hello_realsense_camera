@@ -11,6 +11,13 @@ STEPS:
 #### 2) Next run the rosnode as $rosrun hello_real_sense video_processing_node.py
 #### 3) data is published to topic /sidewalk_detector/color/image_raw
 
+### Technical Dependencies:
+	1) Theano
+	2) Keras
+	3) OpenCV 2.4
+	4) Ubuntu 14.04
+	5) ROS Indigo
+	6) Numpy 1.11.0
 
 # A Sample Input Image
 ![Sample input image](https://raw.githubusercontent.com/aceveggie/hello_realsense_camera/master/hello_real_sense/img29_input.jpg)
