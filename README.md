@@ -19,5 +19,5 @@ STEPS:
 ![Sample output image](https://raw.githubusercontent.com/aceveggie/hello_realsense_camera/master/hello_real_sense/img29_input.jpg)
 
 # Working example screenshot:
-![Working example screenshot](https://raw.githubusercontent.com/aceveggie/hello_realsense_camera/master/hello_real_sense/working_screenshot.jpg)
+![Working example screenshot](https://raw.githubusercontent.com/aceveggie/hello_realsense_camera/master/hello_real_sense/working_screenshot.png)
 
