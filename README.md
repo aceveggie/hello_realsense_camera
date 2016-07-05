@@ -5,11 +5,11 @@ Simple ROS package to read data from real_sense_camera bag file and publish imag
 
 ### NOTE: This only reads the camera data. I have not finished processing the PCL data.
 
-STEPS:
+### STEPS:
 
-#### 1) First play the bag file recorded
-#### 2) Next run the rosnode as $rosrun hello_real_sense video_processing_node.py
-#### 3) data is published to topic /sidewalk_detector/color/image_raw
+	1) First play the bag file recorded
+	2) Next run the rosnode as $rosrun hello_real_sense video_processing_node.py
+	3) data is published to topic /sidewalk_detector/color/image_raw
 
 ### Technical Dependencies:
 	1) Theano
